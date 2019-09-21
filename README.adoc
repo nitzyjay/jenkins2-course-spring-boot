@@ -240,4 +240,7 @@ Boot step-by-step:
 == License
 Spring Boot is Open Source software released under the
 http://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+<<<<<<< HEAD
 touch
+=======
+>>>>>>> 612de47e22ae7d48c6eed5cef24c2303130100c8
